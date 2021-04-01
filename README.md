@@ -1,4 +1,4 @@
 # DsaPractice
 Practised DSA Concepts 
-Learned how to make branch from master and how to use it
-this is my 1 commit
+I Practised data structure and algorithm questions which are frequently asked
+and also learnt how to implement any data structre from scratch
