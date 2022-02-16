@@ -11,7 +11,7 @@ public class CommonElements2 {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int val : arr1){
-            map.put(val, map.getOrDefault(val, 1));
+            map.put(val, map.getOrDefault(val, 0)+1);
         }
 
 
